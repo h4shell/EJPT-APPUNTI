@@ -703,3 +703,7 @@ Ora abbiamo i seguenti comandi che possiamo dare per leggere il database:
 - `hosts` rivela tutti gli host trovati con nmap
 - `services` rivela tutti i servizi trovati con nmap
 - `vulns` rivela tutte le vulnerabilità trovate con nmap
+
+## Generatore di dizionari personalizzati
+
+`cupp` (Common User Passwords Profiler) è uno strumento utilizzato per generare dizionari di password personalizzati, utile in contesti di test di penetrazione e sicurezza informatica. Il comando cupp -i serve per avviare l'interfaccia interattiva di cupp, che ti guida nella creazione di un dizionario di password basato su informazioni specifiche che fornisci.
